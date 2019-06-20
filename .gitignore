@@ -3,3 +3,4 @@ venv/
 env/
 .vs/
 .idea/
+.DS_Store
