@@ -1,0 +1,5 @@
+# comprehension
+# lambda
+# generator
+# decorator
+
